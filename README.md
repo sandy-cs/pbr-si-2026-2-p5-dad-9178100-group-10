@@ -1,23 +1,21 @@
-# TÍTULO DO PROJETO
+# Práticas
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicações Distribuídas`
 
-`SEMESTRE`
+`2026/2`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto criado com intuito de atender as tarefas da matéria Desenvolvimento de Aplicações Distribuídas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Sandy Costa Santos
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Wesley Dias Maciel
 
 ## Instruções de utilização
 
